@@ -6,5 +6,5 @@ A Flutter App to help learn Flutter with quiz.
 
 See images of the project:
 
-![](screenshot/image-01.png)
-![](screenshot/image-02.png)
+![](screenshots/image-01.png)
+![](screenshots/image-02.png)
